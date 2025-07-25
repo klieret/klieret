@@ -1,4 +1,4 @@
-**📣 NEWS: Check out [mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent/), our new 100 line AI agent that still scores 65% on SWE-bench verified!** 
+**📣 NEWS: Check out [mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent/), a 100 line AI agent that still scores 65% on SWE-bench verified!** 
 
 Hi 👋 I'm a research software engineer at Princeton's [language and intelligence initiative][pli] focusing on [agentic AI][agents]. I also develop [graph neural networks][gnn-tracking] to reconstruct particle trajectories. 
 Some of my smaller open source projects are described [here][website] (but it's an incomplete list).
