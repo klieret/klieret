@@ -3,7 +3,7 @@
 **📣 NEWS: Check out [mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent/), a 100 line AI agent that scores 71% on SWE-bench verified!** 
 
 Hi 👋 I'm a research software engineer at Princeton's [language and intelligence initiative][pli] focusing on [agentic AI][agents]. I also develop [graph neural networks][gnn-tracking] to reconstruct particle trajectories. 
-Some of my smaller open source projects are described [here][website] (but it's an incomplete list).
+Some of my smaller open source projects are described [here][website] (but it's an incomplete list).![](https://hit.yhype.me/github/profile?account_id=13602468)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klieret&hide_border=false&hide_rank=false&show_icons=true&disable_animations=true&custom_title=Stats&theme=default&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
