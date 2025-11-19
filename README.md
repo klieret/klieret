@@ -1,5 +1,5 @@
+**📣 NEWS: Check out [mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent/), a 100 line AI agent that scores 74% on SWE-bench verified!**<br/>
 **📣 NEWS: Check out [CodeClash](https://github.com/codeclash-ai/codeclash), the first goal-oriented SWE benchmark!** <br/>
-**📣 NEWS: Check out [mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent/), a 100 line AI agent that scores 71% on SWE-bench verified!** 
 
 Hi 👋 I'm a research software engineer at Princeton's [language and intelligence initiative][pli] focusing on [agentic AI][agents]. I also develop [graph neural networks][gnn-tracking] to reconstruct particle trajectories. 
 Some of my smaller open source projects are described [here][website] (but it's an incomplete list).![](https://hit.yhype.me/github/profile?account_id=13602468)![](https://komarev.com/ghpvc/?username=klieret&style=pixel)
