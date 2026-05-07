@@ -1,3 +1,4 @@
+**📣 NEWS: Check out [ProgramBench](https://github.com/facebookresearch/programbench/), a 0% software from scratch benchmark**<br/>
 **📣 NEWS: Check out [mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent/), a 100 line AI agent that scores 77% on SWE-bench verified!**<br/>
 **📣 NEWS: Check out [CodeClash](https://github.com/codeclash-ai/codeclash), the first goal-oriented SWE benchmark!** <br/>
 
